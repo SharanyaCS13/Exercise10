@@ -24,7 +24,7 @@ print "        <meta name=\"twitter:image\" content=\"assets/ .jpg\">\n";
 print "        <meta name=\"twitter:card\" content=\"assets/ .jpg\">\n";
 print "\n";
 print "        <!-- CSS -->\n";
-print "        <link href=\"Exersice10.css\" rel=\"stylesheet\" type=\"text/css\">\n";
+print "        <link href=\"style.css\" rel=\"stylesheet\" type=\"text/css\">\n";
 print "                \n";
 print "        <!--JavaScript -->\n";
 print "        <script type=\"text/javascript\" src=\"Exersice10.js\" defer></script> \n";
