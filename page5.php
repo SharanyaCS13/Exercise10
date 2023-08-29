@@ -9,7 +9,7 @@ echo "    <meta name=\"description\" content=\" \">\n";
 echo "    <meta name=\"keywords\" content=\" \">\n";
 echo "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n";
 echo "    <title>Page 5 - Multipage PHP website</title>\n";
-echo "    <link href=\"Exersice10.css\" rel=\"stylesheet\" type=\"text/css\">\n";
+echo "    <link href=\"style.css\" rel=\"stylesheet\" type=\"text/css\">\n";
 echo "    <script type=\"text/javascript\" src=\"Exersice10.js\" defer></script> \n";
 echo "</head>\n";
 echo "<body>\n";
