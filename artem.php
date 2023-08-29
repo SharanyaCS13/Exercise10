@@ -27,7 +27,7 @@ print "        <!-- CSS -->\n";
 print "        <link href=\"style.css\" rel=\"stylesheet\" type=\"text/css\">\n";
 print "                \n";
 print "        <!--JavaScript -->\n";
-print "        <script type=\"text/javascript\" src=\"Exersice10.js\" defer></script> \n";
+print "        <script type=\"text/javascript\" src=\"script.js\" defer></script> \n";
 print "\n";
 print "        <!-- Favicons -->\n";
 print "        <link rel=\"shortcut icon\" href=\"assets/favicon.ico\"> \n";
