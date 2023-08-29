@@ -10,7 +10,7 @@ echo "    <meta name=\"keywords\" content=\" \">\n";
 echo "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n";
 echo "    <title>Page 4 - Multipage PHP website</title>\n";
 echo "    <link href=\"style.css\" rel=\"stylesheet\" type=\"text/css\">\n";
-echo "    <script type=\"text/javascript\" src=\"Exersice10.js\" defer></script> \n";
+echo "    <script type=\"text/javascript\" src=\"script.js\" defer></script> \n";
 echo "</head>\n";
 echo "<body>\n";
 echo "    <header><a href=\"index.php\">MULTIPAGE PHP WEBSITE</a></header>\n";
